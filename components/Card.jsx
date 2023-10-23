@@ -1,3 +1,4 @@
+import PropTypes from "prop-types";
 import Marker from "../src/assets/images/marker.svg";
 
 export default function Card(props) {
@@ -27,4 +28,17 @@ export default function Card(props) {
       <hr />
     </>
   );
+}
+
+Card.propTypes = {
+  cardItem: PropTypes.shape({
+    imageUrl: PropTypes.string,
+    alt: PropTypes.string,
+    location: PropTypes.string,
+    googleMapsUrl: PropTypes.string,
+    title: PropTypes.string,
+    startDate: PropTypes.string,
+    endDate: PropTypes.string,
+    description: PropTypes.string,
+  }),
 }
