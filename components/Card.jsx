@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import Marker from "../src/assets/images/marker.svg";
+import Marker from "../public/images/marker.svg";
 
 export default function Card(props) {
   return (

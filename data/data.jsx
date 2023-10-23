@@ -22,7 +22,7 @@ export default [
     endDate: "24 Jul, 2023",
     description:
       "Zatorland houses more than 60 attractions and over 100 moving dinosaurs on 20 hectares of green space! Zatorland consists of as many as 4 parks! The Mobile Dinosaur Park, the Insect Park, the Mythology Park and the Funfair.",
-    imageUrl: "../src/assets/images/zator-land.jpeg",
+    imageUrl: "../public/images/zator-land.jpeg",
     alt: "zator land",
   },
   {
@@ -35,8 +35,8 @@ export default [
     endDate: "27 July, 2023",
     description:
       "ENERGYLANDIA is the largest amusement park in Poland, offering 123 attractions located on an area of 70 hectares. Energylandia is suitable for all ages, including children, teenagers and adults.",
-    imageUrl: "../src/assets/images/energylandia.jpeg",
-    alt: "Ernaergylandia theme park",
+    imageUrl: "../public/images/energylandia.jpeg",
+    alt: "Energylandia theme park",
   },
   {
     id: 4,
@@ -48,7 +48,7 @@ export default [
     endDate: "30 Jul, 2023",
     description:
       "The Krakow Zoo is a breeding center where many animal species are successfully bred and raised. This is one of the favorite recreational places of Krakow's inhabitants. Carefully tended greenery and the opportunity to have direct contact with domesticated species in the Mini-Zoo create favorable conditions for visitors to relax.",
-    imageUrl: "../src/assets/images/krakow-zoo.jpeg",
+    imageUrl: "../public/images/krakow-zoo.jpeg",
     alt: "Krakow Zoo",
   },
   {
@@ -61,7 +61,7 @@ export default [
     endDate: "31 Aug, 2018",
     description:
       "Chessington World of Adventures has over 40 rides and attractions, more than 1,00 animals and a SEA LIFE centre, two themed Hotels, a Glamping site and Go Ape. At this theme park, there is plenty to entice visitors both old and young.",
-    imageUrl: "../src/assets/images/chessington.webp",
+    imageUrl: "../public/images/chessington.webp",
     alt: "chessington world of adventures",
   },
   {
@@ -74,7 +74,7 @@ export default [
     endDate: "2 Aug, 2021",
     description:
       "Located on the edge of the Peak District, get ready for incredible views, thrilling rides and unique attractions. Gulliver's Kingdom Resort is the perfect destination for a picturesque adventure. Escape to a beautiful part of the UK. Stay and play accommodation options include Pirate Cabins, Wizard Suites and Indoor Camping.",
-    imageUrl: "../src/assets/images/gullivers-kingdom.jpg",
+    imageUrl: "../public/images/gullivers-kingdom.jpg",
     alt: "gulliver's valley",
   },
 ];
