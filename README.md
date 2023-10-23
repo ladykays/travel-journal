@@ -1,8 +1,24 @@
-# React + Vite
+# My Travel Journal
+![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+I have created an interactive and visually captivating travel journal using React and Vite, showcasing a collection of the destinations I've explored.
 
-Currently, two official plugins are available:
+## Technologies
+* HTML
+* CSS
+* JSX
+* Vite
+* React
+* Bootstrap
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshot
+![screenshot](./src/assets/images/screenshot.png)
+
+## Deployed Site
+https://travel-journal-jbf161xdh-ladykays-projects.vercel.app
+
+## Licence
+This project is licensed under the MIT License. [View licence](https://opensource.org/licenses/MIT)
+
+
