@@ -1,10 +1,10 @@
 import PropTypes from "prop-types";
-import Marker from "../public/images/marker.svg";
+import Marker from "../src/assets/images/marker.svg";
 
 export default function Card(props) {
   return (
-    <>
-      <div className="cardItem d-flex flex-row justify-content-center">
+    <div className="card-container">
+      <div className="cardItem d-flex flex-md-row">
         <img
           src={props.cardItem.imageUrl}
           alt={props.cardItem.alt}
@@ -26,7 +26,7 @@ export default function Card(props) {
         </div>
       </div> 
       <hr />
-    </>
+    </div>
   );
 }
 

@@ -29,17 +29,16 @@ nav {
 /* Cards styles */
 .cards-list {
   margin: 2.8rem auto;
-  width:50%;
+  width:70%;
 }
 .cardItem--photo {
   border-radius: 0.3125rem;
-  height: 12rem;
-  width: 12rem;
+  height: 10rem;
+  width: 13rem;
+  margin-right: 1.2rem;
 }
 .cardItem--info-container {
   color: #2B283A;
-  margin-left: 1.2rem;
-
 }
 .location-grp {
   font-family: Inter;
@@ -61,7 +60,6 @@ nav {
   text-transform: uppercase;
 }
 .cardItem--info-mapLink {
-  
   font-size: 0.64rem;
   font-weight: 400;
   text-decoration-line: underline;
@@ -85,4 +83,27 @@ nav {
   color: #2B283A;
   font-size: 0.64rem;
   margin-top: 0.56rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .cards-list {
+    width:60%;
+  }
+  .card-container {
+    margin-bottom: 2rem;
+  }
+  .cardItem {
+    flex-direction: column;
+  }
+  .cardItem--photo {
+    height: 100%;
+    margin-right: 0;
+    width: 100%;
+  }
+  .location-grp {
+    margin-top: 1rem;
+  }
+  .cardItem--description {
+    text-align: justify;
+  }
 }

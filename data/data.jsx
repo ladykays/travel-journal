@@ -9,7 +9,7 @@ export default [
     endDate: "27 Jul, 2022",
     description:
       "In the heart of Europa, nestled between Black Forest and the Vosges, lies one of the world's most beautiful theme parks. More than 5 million visitors from all over the world vist every season, to be fascinated by over 100 attractions and shows and enchanted by the lovingly detailed theming.",
-    imageUrl: "https://www.europapark.de/sites/default/files/styles/kachel/public/import/attraction/946/Europa-Park_bluefire_Nordstream_2.jpg?h=b36f7f28&itok=U4gnC2JA",
+    imageUrl: "https://mein.toubiz.de/api/v1/media/dcbc7778-c04d-4c51-92ab-8095f649715e/view",
     alt: "Europa Park",
   },
   {
@@ -22,7 +22,7 @@ export default [
     endDate: "24 Jul, 2023",
     description:
       "Zatorland houses more than 60 attractions and over 100 moving dinosaurs on 20 hectares of green space! Zatorland consists of as many as 4 parks! The Mobile Dinosaur Park, the Insect Park, the Mythology Park and the Funfair.",
-    imageUrl: "../public/images/zator-land.jpeg",
+    imageUrl: "https://blizejprzedszkola.pl//upload/miniaturka/phpThumb.php?src=../wpisy/37e1ba65c3bd151659694ad600d88aac.png&w=800&zc=0&q=90&f=webp",
     alt: "zator land",
   },
   {
@@ -35,7 +35,7 @@ export default [
     endDate: "27 July, 2023",
     description:
       "ENERGYLANDIA is the largest amusement park in Poland, offering 123 attractions located on an area of 70 hectares. Energylandia is suitable for all ages, including children, teenagers and adults.",
-    imageUrl: "../public/images/energylandia.jpeg",
+    imageUrl: "https://f4fcdn.eu/wp-content/uploads/2021/07/DSC09164.jpg",
     alt: "Energylandia theme park",
   },
   {
@@ -48,7 +48,7 @@ export default [
     endDate: "30 Jul, 2023",
     description:
       "The Krakow Zoo is a breeding center where many animal species are successfully bred and raised. This is one of the favorite recreational places of Krakow's inhabitants. Carefully tended greenery and the opportunity to have direct contact with domesticated species in the Mini-Zoo create favorable conditions for visitors to relax.",
-    imageUrl: "../public/images/krakow-zoo.jpeg",
+    imageUrl: "https://aws-tiqets-cdn.imgix.net/images/content/e64b01f948a74eeb86307755d5c5ca96.jpeg?auto=format&fit=crop&ixlib=python-3.2.1&q=70&s=fd654991b2b4460d2b038ac30094cd09",
     alt: "Krakow Zoo",
   },
   {
@@ -61,7 +61,7 @@ export default [
     endDate: "31 Aug, 2018",
     description:
       "Chessington World of Adventures has over 40 rides and attractions, more than 1,00 animals and a SEA LIFE centre, two themed Hotels, a Glamping site and Go Ape. At this theme park, there is plenty to entice visitors both old and young.",
-    imageUrl: "../public/images/chessington.webp",
+    imageUrl: "https://theabbey.co.uk/wp-content/uploads/2021/10/IMG-0557-scaled.jpg",
     alt: "chessington world of adventures",
   },
   {
@@ -74,7 +74,7 @@ export default [
     endDate: "2 Aug, 2021",
     description:
       "Located on the edge of the Peak District, get ready for incredible views, thrilling rides and unique attractions. Gulliver's Kingdom Resort is the perfect destination for a picturesque adventure. Escape to a beautiful part of the UK. Stay and play accommodation options include Pirate Cabins, Wizard Suites and Indoor Camping.",
-    imageUrl: "../public/images/gullivers-kingdom.jpg",
+    imageUrl: "https://images.gulliversfun.co.uk/content/images/Gullivers-Kingdom-1.jpg",
     alt: "gulliver's valley",
   },
 ];
