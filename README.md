@@ -16,7 +16,7 @@ I have created an interactive and visually captivating travel journal using Reac
 ![screenshot](./src/assets/images/screenshot.png)
 
 ## Deployed Site
-https://travel-journal-jbf161xdh-ladykays-projects.vercel.app
+https://travel-journal-ogbbud8sk-ladykays-projects.vercel.app
 
 ## Licence
 This project is licensed under the MIT License. [View licence](https://opensource.org/licenses/MIT)
