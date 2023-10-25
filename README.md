@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 
 ## Description
-I have created a visually captivating travel journal using React and Vite, showcasing a collection of the destinations I've explored.
+I have created a visually captivating travel journal using props to create reusable components in React. This journal showcases a collection of the destinations I've had the pleasure of visiting. The project was completed using React in conjunction with  Vite.
 
 ## Technologies
 * HTML
